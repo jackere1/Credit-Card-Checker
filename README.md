@@ -1,3 +1,3 @@
 # Credit-Card-Checker
-Luhn's algorithm to check credit card number to be valid
+
 For credit card number generator app...
